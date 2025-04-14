@@ -42,9 +42,3 @@ Make sure you have a C compiler installed (e.g., `gcc`). Then compile and execut
 gcc -o CashWizard cashwizard.c
 ./CashWizard
 ```
-
-
----
-
-## 👨‍💻 Author
-Created by Me
